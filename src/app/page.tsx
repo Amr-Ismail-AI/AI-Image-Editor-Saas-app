@@ -1,4 +1,4 @@
-import React from 'react'
+import { env } from "~/env"
 
 function HomePage() {
   return (
